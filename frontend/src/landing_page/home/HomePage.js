@@ -1,5 +1,4 @@
 import React from 'react';
-import Awards from './Awards';
 import OpenAccount from '../OpenAccount';
 import Stats from './Stats';
 import Hero from './Hero';
@@ -14,7 +13,6 @@ function HomePage() {
         <>
         <Navbar/>
         <Hero/>
-        <Awards/>
         <Stats/>
         <Pricing/>
         <Education/>
