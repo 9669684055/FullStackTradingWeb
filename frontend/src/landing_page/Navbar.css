@@ -27,4 +27,10 @@
     text-decoration: none;
     color: black;
     padding: 0 10px;
+    opacity: 50%;
+}
+
+div a:hover {
+color: rgba(70, 88, 243, 0.911);
+opacity: 100%;
 }
