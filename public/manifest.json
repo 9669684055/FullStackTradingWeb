@@ -17,6 +17,11 @@
       "sizes": "512x512",
       "type": "image/png"
       
+    },
+    {
+      "src" : "nithinKamath.jpg",
+      "sizes" : "464x464",
+      "type": "image/jpg"
     }
   ],
   "start_url": ".",
